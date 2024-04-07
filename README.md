@@ -1,55 +1,10 @@
-## PiCar-4WD 
-PiCar-4WD 
+# picar-4wd-extension
+An extension for the PiCar-4WD which supports the original functionality but with controller and phone control instead of it entirely from the web.
 
-Quick Links:
-
- * [About PiCar-4WD](#about_this_module)
- * [Update](#update)
- * [About SunFounder](#about_sunfounder)
- * [License](#license)
- * [Contact us](#contact_us)
-
-<a id="about_this_module"></a>
-### About PiCar-4WD:
-
-
-
-<a id="update"></a>
-### Update:
- - picar-4wd is the 4WD car that is built based on the Raspberry Pi, with the functions, including line following, following, obstacle avoidance, speed testing,  remote control, radar testing and use the web page to control the picar-4wd
-2019-09-21:
- - New Release
-
-----------------------------------------------
-<a id="about_sunfounder"></a>
-### About SunFounder
-SunFounder is a technology company focused on Raspberry Pi and Arduino open source community development. Committed to the promotion of open source culture, we strives to bring the fun of electronics making to people all around the world and enable everyone to be a maker. Our products include learning kits, development boards, robots, sensor modules and development tools. In addition to high quality products, SunFounder also offers video tutorials to help you make your own project. If you have interest in open source or making something cool, welcome to join us!
-
-----------------------------------------------
-<a id="license"></a>
-### License
-This is the code for PiCar-4WD.
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied wa rranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
-
-PiCar-4WD comes with ABSOLUTELY NO WARRANTY; for details run ./show w. This is free software, and you are welcome to redistribute it under certain conditions; run ./show c for details.
-
-SunFounder, Inc., hereby disclaims all copyright interest in the program 'PiCar-4WD' (which makes passes at compilers).
-
-Mike Huang, 21 August 2015
-
-Mike Huang, Chief Executive Officer
-
-Email: service@sunfounder.com, support@sunfounder.com
-
-----------------------------------------------
-<a id="contact_us"></a>
-### Contact us:
-website:
-	www.sunfounder.com
-
-E-mail:
-	service@sunfounder.com, support@sunfounder.com
+# Equipment
+_Note that the equipment linked, may not be the cheapest that can be found find but act as a visual guide of all the parts required_.
+- [PiCar-4WD Car Kit](https://www.sunfounder.com/products/raspberry-pi-car-robot-kit-4wd?variant=43805575839979)
+- [Raspberry Pi 3b+ Model](https://www.amazon.co.uk/Raspberry-Pi-3-Model-B/dp/B07BDR5PDW/ref=sr_1_2?crid=YGJYRDAXUSJ5&dib=eyJ2IjoiMSJ9.QRQnlDldrZ1kG52N6yCs7nxOXdbEU2xF61v3PeJEOOsXIvt2YY4bNasUeAbeSKFahCu1jBe2H7slJ4HIvp5575SaW-3u1smMaZLvCYP_drKE7kmMHGXfdI2IaguU9hLG0d8adRX0ESRI_yILf7voiVbwqNSLBs1cQ_kabpzYkqGndcyxokRn3vo324PjXMIkyXT-72bbvClxRW1qMcOlHjWCONfViYjuyO1e6NE3Zv0.mpLVrNmZ15D4OhnQEZNthCxZvr9DRf7DKrghaj6WXMw&dib_tag=se&keywords=raspberry+pi+3b%2B&qid=1712531351&sprefix=raspberry+pi+3b%2B%2Caps%2C90&sr=8-2)
+- [2x 18650 Li Rechargeable batteries](https://www.amazon.co.uk/PAISUE-Capacity-Rechargeable-Batteries-Charging/dp/B0B2LL2FL4/ref=sr_1_9?crid=2918FB8U2O8EQ&dib=eyJ2IjoiMSJ9.h459TbWMkV2eSdFy4dHgtGBCo2uWh_9P3_07C0pfFxxDZeE7vKivbJDh4-g0z56uExpCZtVzH0S_ZuuNKCdj0SXFYmcIY2UqkG8oYsEGhR9jJpfCL2lN155Sqc0npEMyRe22BMj4M1Pm6k8vQc-vYTMyHoFznj7IUht7IvZC_8Z3UgR-A8OWdXlSiagPC1T5MnPzjIhzQvmpRda_dYcdXmzI5IBskG2OgYw6sCQaP-4.HzVrTc5LvWPi26pPIjDO2y66T9h0KPqwTZy84HSFxcQ&dib_tag=se&keywords=18650+rechargeable+battery+3.7V&qid=1712531287&sprefix=18650+rechargeable+battery+3.7v%2Caps%2C86&sr=8-9)
+- [Stretchable controller for mobile phone](https://www.amazon.co.uk/dp/B0BSR6D2C5?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- Raspberry Pi Camera
