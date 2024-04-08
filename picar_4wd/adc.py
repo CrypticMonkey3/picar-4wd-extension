@@ -1,5 +1,12 @@
+# / ---------------------------------------------------------------------------------- \
+# | Title: PiCar_4WD adc.py source code												   |
+# | Author: Sunfounder																   |
+# | Last update: 12 July 2023														   |
+# | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/adc.py |
+# \ ---------------------------------------------------------------------------------- /
+
 #!/usr/bin/env python3
-from .i2c import I2C
+from i2c import I2C
 
 class ADC(I2C):
     ADDR=0x14                   # i2c_address 0x14
