@@ -1,3 +1,11 @@
+# / ------------------------------------------------------------------------------------- \
+# | Title: PiCar_4WD filedb.py source code                                                |
+# | Author: Sunfounder                                                                    |
+# | Last update: 12 July 2023                                                             |
+# | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/filedb.py |
+# \ ------------------------------------------------------------------------------------- /
+
+
 class FileDB(object):
 	"""A file based database.
 
