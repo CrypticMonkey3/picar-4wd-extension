@@ -1,5 +1,12 @@
+# / ---------------------------------------------------------------------------------- \
+# | Title: PiCar_4WD pwm.py source code												   |
+# | Author: Sunfounder																   |
+# | Last update: 12 July 2023														   |
+# | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/pwm.py |
+# \ ---------------------------------------------------------------------------------- /
+
 import smbus, math
-from .i2c import I2C
+from i2c import I2C
 
 class PWM(I2C):
     REG_CHN = 0x20
