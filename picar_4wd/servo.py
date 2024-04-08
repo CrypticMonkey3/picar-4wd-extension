@@ -1,4 +1,11 @@
-from .utils import mapping
+# / ------------------------------------------------------------------------------------ \
+# | Title: PiCar_4WD servo.py source code											     |
+# | Author: Sunfounder																     |
+# | Last update: 12 July 2023														     |
+# | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/servo.py |
+# \ ------------------------------------------------------------------------------------ /
+
+from utils import mapping
 
 class Servo():
     PERIOD = 4095
