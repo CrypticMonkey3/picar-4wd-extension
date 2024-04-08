@@ -1,7 +1,14 @@
+# / ----------------------------------------------------------------------------------------- \
+# | Title: PiCar_4WD ultrasonic.py source code												  |
+# | Author: Sunfounder																   		  |
+# | Last update: 11 September 2019														   	  |
+# | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/ultrasonic.py |
+# \ ----------------------------------------------------------------------------------------- /
+
 import time
-from picar_4wd.servo import Servo
-from picar_4wd.pwm import PWM
-from picar_4wd.pin import Pin
+from servo import Servo
+from pwm import PWM
+from pin import Pin
 
 class Ultrasonic():
     ANGLE_RANGE = 180
