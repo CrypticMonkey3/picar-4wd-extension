@@ -1,3 +1,10 @@
+# / ------------------------------------------------------------------------------------ \
+# | Title: PiCar_4WD motor.py source code											     |
+# | Author: Sunfounder																     |
+# | Last update: 11 September 2019													     |
+# | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/motor.py |
+# \ ------------------------------------------------------------------------------------ /
+
 import threading
 
 class Motor():
