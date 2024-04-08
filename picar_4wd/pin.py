@@ -1,3 +1,10 @@
+# / ---------------------------------------------------------------------------------- \
+# | Title: PiCar_4WD pin.py source code												   |
+# | Author: Sunfounder																   |
+# | Last update: 11 September 2019													   |
+# | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/pin.py |
+# \ ---------------------------------------------------------------------------------- /
+
 import RPi.GPIO as GPIO
 
 class Pin(object):
