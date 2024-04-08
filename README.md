@@ -19,12 +19,13 @@ To do this follow the steps below, and remove connectivity from controller if it
 2. Go to Terminal and type in 'bluetoothctl'.
 3. Type in 'scan on'
 4. Find the MAC address related to your controller, this is usually identified by seeing the controller name, and type in 'connect [Controller MAC Address]'
-5 Once successful, type 'scan off'
-6. Type 'quit'
+5. Once successful, type 'scan off'
+6. Type 'quit'.
 7. Type 'ls /dev/input' again, and if there's more events than at the start you're good to run this program.
+
 If there's no more events than when you started, and you don't have any other connection for the controller, than the controller is incompatible.
 If there are other connection methods, try them.
-If worst case everything still does not connect, try powering on and off the pi and redo all the steps above until it works.
+If the worst case occurs where everything still does not connect, try powering on and off the pi and redo all the steps above until it works.
 
 ### Actions
 - Right Trigger accelerate/forward
