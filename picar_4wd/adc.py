@@ -1,7 +1,7 @@
 # / ---------------------------------------------------------------------------------- \
-# | Title: PiCar_4WD adc.py source code												   |
-# | Author: Sunfounder																   |
-# | Last update: 12 July 2023														   |
+# | Title: PiCar_4WD adc.py source code                                                |
+# | Author: Sunfounder                                                                 |
+# | Last update: 12 July 2023                                                          |
 # | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/adc.py |
 # \ ---------------------------------------------------------------------------------- /
 
