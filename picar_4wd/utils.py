@@ -1,4 +1,9 @@
-
+# / ------------------------------------------------------------------------------------ \
+# | Title: PiCar_4WD utils.py source code											     |
+# | Author: Sunfounder																     |
+# | Last update: 21 February 2024													     |
+# | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/utils.py |
+# \ ------------------------------------------------------------------------------------ /
 
 import subprocess
 import os
@@ -7,7 +12,7 @@ import time
 user_name = os.getlogin()
 
 def soft_reset():
-    from .pin import Pin
+    from pin import Pin
     soft_reset_pin = Pin("D16")
     soft_reset_pin.low()
     time.sleep(0.01)
