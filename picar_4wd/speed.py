@@ -1,7 +1,13 @@
+# / ------------------------------------------------------------------------------------ \
+# | Title: PiCar_4WD speed.py source code											     |
+# | Author: Sunfounder																     |
+# | Last update: 12 July 2023														     |
+# | Availability: https://github.com/sunfounder/picar-4wd/blob/master/picar_4wd/speed.py |
+# \ ------------------------------------------------------------------------------------ /
+
 import RPi.GPIO as GPIO
 import time, math
 import threading
-from . import *
 
 class Speed():
     def __init__(self, pin):
